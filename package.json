@@ -1,0 +1,32 @@
+{
+  "name": "slip-edge",
+  "version": "1.0.0",
+  "description": "Data-driven sports picks platform - Slip Edge",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "start": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.21.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite": "^5.0.8"
+  },
+  "keywords": [
+    "sports",
+    "picks",
+    "betting",
+    "nba",
+    "mlb",
+    "ufc"
+  ],
+  "author": "Slip Edge",
+  "license": "MIT"
+}
